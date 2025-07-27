@@ -3,8 +3,8 @@
 use relationships
 
 db.embedded.insertOne({
-  nome: "Matheus",
-  idade: 30,
+  nome: "Eythor",
+  idade: 19,
   endereco: {
     rua: "Rua das flores",
     numero: "1314",
