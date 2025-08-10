@@ -1,6 +1,6 @@
 # 📚 MongoDB - Meus Aprendizados
 
-Este repositório foi criado com o intuito de documentar meus estudos, descobertas e experimentos com MongoDB — o banco de dados NoSQL mais popular do mercado. Ao longo dessa jornada, compartilho códigos, anotações, dicas e exemplos práticos que fui aprendendo enquanto explorava as capacidades do MongoDB.
+Este repositório foi criado com o intuito de documentar meus estudos, descobertas e experimentos com MongoDB — o banco de dados NoSQL mais popular do mercado. Ao longo dessa jornada compartilho códigos, anotações, dicas e exemplos práticos que fui aprendendo enquanto explorava as capacidades do MongoDB.
 
 ## 🧠 O que você vai encontrar aqui
 
