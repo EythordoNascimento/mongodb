@@ -4,11 +4,11 @@ Este repositório foi criado com o intuito de documentar meus estudos, descobert
 
 ## 🧠 O que você vai encontrar aqui
 
-- Conceitos básicos e avançados sobre MongoDB
-- Exemplos de comandos e operações no Mongo Shell
-- Scripts de agregação e filtragem
-- Notas sobre modelagem de dados no MongoDB
-- Estudos sobre desempenho e boas práticas
+- Conceitos básicos e avançados sobre MongoDB;
+- Exemplos de comandos e operações no Mongo Shell;
+- Scripts de agregação e filtragem;
+- Notas sobre modelagem de dados no MongoDB;
+- Estudos sobre desempenho e boas práticas;
 
 ## 💡 Objetivo
 
